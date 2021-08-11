@@ -1,0 +1,19 @@
+{
+  "name": "ion-utils",
+  "version": "0.1.0",
+  "description": "NodeJS utils library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionut270/ion-utils.git"
+  },
+  "author": "Ionut Eugen OANCEA <oanceaionut15@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionut270/ion-utils/issues"
+  },
+  "homepage": "https://github.com/ionut270/ion-utils#readme"
+}

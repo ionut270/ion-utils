@@ -1,0 +1,1 @@
+module.exports.promise = require('./promise-fs');
